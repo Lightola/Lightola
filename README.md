@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lightola
-- 👀 I’m interested in ... Reading and finging out new things
+- 👀 I’m interested in ... Reading and finding out new things
 - 🌱 I’m currently learning ... Data science, mechine learning and analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
